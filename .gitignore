@@ -1,0 +1,48 @@
+# ── ACL GhostFix — sensitive / local files (NEVER commit these) ───────────
+acl_config.json
+*.json.bak
+config.json
+
+# RINEX & generated signal files (large, user-specific, regenerable)
+*.bin
+*.nav
+*.??n
+*.??o
+*.rnx
+rinex/
+bin/
+gnss_data/
+ACL-GhostFix/
+
+# ── Python ───────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+.venv/
+env/
+ENV/
+
+# ── OS / Editor junk ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
