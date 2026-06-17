@@ -186,4 +186,4 @@ whole RF security community.
 - [gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim) by osqzss — the GNSS signal
   generation engine this tool wraps
 - [HackRF](https://github.com/greatscottgadgets/hackrf) by Great Scott Gadgets
-- Built and maintained by **ACL Labs**
+- Built and maintained by **ACL LABS**
