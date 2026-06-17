@@ -106,7 +106,7 @@ That's it — you only need to do this once.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/acllabs/acl-ghostfix.git
+git clone https://github.com/acl-labs/acl-ghostfix.git
 cd acl-ghostfix
 pip install -r requirements.txt
 python main.py
